@@ -70,7 +70,7 @@ client.on('message', message => {
 
 client.on('message', message => {
   if (message.content === '박진우') {
-    message.reply('https://cdn.discordapp.com/attachments/727940286793252977/728981820137275402/image0.jpg');
+    message.reply('https://cdn.discordapp.com/attachments/727940286793252977/728983841041285130/image0.jpg');
   }
 });
 
