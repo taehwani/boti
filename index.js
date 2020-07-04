@@ -58,7 +58,7 @@ client.on('message', message => {
 
 client.on('message', message => {
   if (message.content === '산스') {
-    message.reply('그게뭔데 씹덕아');
+    message.reply('그게뭔데 좁밥아');
   }
 });
 
@@ -70,7 +70,7 @@ client.on('message', message => {
 
 client.on('message', message => {
   if (message.content === '박진우') {
-    message.reply('아 그 장애인?ㅋㅋ');
+    message.reply('https://cdn.discordapp.com/attachments/727940286793252977/728981820137275402/image0.jpg');
   }
 });
 
@@ -95,6 +95,12 @@ client.on('message', message => {
 client.on('message', message => {
   if (message.content === '니애미') {
     message.reply('자지박으면 너는 꼼짝못해');
+  }
+});
+
+client.on('message', message => {
+  if (message.content === '이 이게뭐노') {
+    message.reply('https://cdn.discordapp.com/attachments/727940286793252977/728981824226852904/image0.jpg');
   }
 });
 
