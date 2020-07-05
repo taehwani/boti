@@ -8,6 +8,7 @@ const byeChannelComment = "드디어 서버 나갔네 씨발람ㅋㅋ";
 
 client.on('ready', () => {
   console.log('야스봇 on');
+  client.user.setPresence({ game: { name: '여친과 모텔가기' }, status: 'online' })
 });
 
 client.on("guildMemberAdd", (member) => {
