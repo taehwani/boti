@@ -107,7 +107,7 @@ client.on('message', message => {
 
 client.on('message', message => {
   if (message.content === '시발') {
-    message.reply('https://cdn.discordapp.com/attachments/727940286793252977/728981824226852904/image0.jpg');
+    message.reply('주슬까');
   }
 });
 
