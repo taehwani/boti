@@ -107,4 +107,4 @@ client.on('message', message => {
   }
 });
 
-client.loginNzI3(NzI3OTM5NDAwNTExNzgyOTMz.XvzIZQ.HYS7WfAii_1GqeoqjVfg3DV06uM);
+client.loginNzI3(token);
